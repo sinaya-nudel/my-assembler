@@ -1,0 +1,6 @@
+Errors for "input2.as":
+Error in line: 3. Unknown command\data type.
+Error in line: 6. Unknown command\data type.
+Error in line: 14. Extraneous text after end of command.
+Error in line: 22. Label must be unique.
+Total number of errors in the file "input2.as": 4.
